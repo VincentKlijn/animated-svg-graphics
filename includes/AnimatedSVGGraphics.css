@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+html {
+	background-color: #C8C8C8;
+}
+
+div#circuit {
+	width: 900px;
+	height: 630px;
+	margin: 20px auto;
+}
