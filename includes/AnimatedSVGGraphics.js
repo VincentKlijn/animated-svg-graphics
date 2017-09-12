@@ -20,7 +20,7 @@ window.onload = function() {
 		// Get all Paths from the SVG
 		var svgPaths = circuitImage.getElementsByTagName("path");
 
-		// For each SVG set of 2 paths, animate the Dash Arraw and Dash Offset Properties
+		// For each SVG set of 2 paths, animate the Dash Array and Dash Offset Properties
 		// As we have a black line with a color segment line on top, we need to do pairs of them
 		for(var pathIndex = 0; pathIndex < svgPaths.length; pathIndex += 2) {
 	
