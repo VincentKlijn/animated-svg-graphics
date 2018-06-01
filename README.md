@@ -18,5 +18,5 @@ SVG Graphics are essentially XML files with data. Vector or mathematical element
 
 The circuit graphics have been build carefully in Adobe Illustrator, making sure to use only the necessary paths. And so we can animate the length property of the path to make it look like the graphic is "running".
 
-## [Take a look at the live working version of this demo](https://arteessentia.github.io/animated-svg-graphics/)
+## [Take a look at the live working version of this demo](https://VincentKlijn.github.io/animated-svg-graphics/)
 (Refresh the page to see a different circuit being drawn)
