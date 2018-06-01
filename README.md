@@ -9,7 +9,7 @@ Also, not much to understand here; just some dimensions to keep everything in ch
 
 ### The JavaScript
 This is the essence of this exercise.
-We are using the excellen d3.js library for the data visualizations.
+We are using the excellent d3.js library for the data visualizations.
 
 You can find it on: [https://d3js.org/](https://d3js.org/)
 And of course on GitHib: [https://github.com/d3/d3](https://github.com/d3/d3) 
